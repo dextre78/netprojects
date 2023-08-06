@@ -11,3 +11,5 @@ macOS
 double-click the downloaded dmg file
 copy the contained application directory structure to a directory of your choice (typically /Applications)
 if you prefer, drag & drop the application to the dock to create an icon
+
+este tiene mas cosas
