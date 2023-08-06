@@ -1,1 +1,13 @@
 Hola estamos probando 1
+
+Add this text
+Windows (installer bundle)
+unpack the downloaded zip file,
+launch the installer and follow the instructions
+Windows (portable bundle)
+unpack the downloaded 7z file into an arbitrary directory of your choice (don't unpack over an existing installation!),
+start SmartGit: invoke bin\smartgit.exe
+macOS
+double-click the downloaded dmg file
+copy the contained application directory structure to a directory of your choice (typically /Applications)
+if you prefer, drag & drop the application to the dock to create an icon
